@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# AI Health Care
 
-TODO: Document your project here
+This repository contains the AI Health Care application built with React, Vite, Tailwind CSS, and shadcn/ui. Update this README with your project details, setup instructions, and deployment notes.
  
